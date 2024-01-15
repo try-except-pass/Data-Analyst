@@ -29,15 +29,27 @@ Requirements:
 - The following references:
 
 Visual Basic For Applications
+
 Microsoft ActiveX Data Objects 2.8 Library
+
 Microsoft ActiveX Data Objects Recordset 2.8 Library
+
 Microsoft Excel 16.0 Object Library
+
 Microsoft Forms 2.0 Object Library
+
 Microsoft Office 16.0 Object Library
+
 Microsoft Script Control 1.0
+
 Microsoft Scripting Runtime
+
 Microsoft Scriptlet Library
+
 Microsoft VBScript Regular Expressions 1.0
+
 Microsoft VBScript Regular Expressions 5.5
+
 Microsoft Visual Basic for Applications Extensibility 5.3
+
 mscorlib.dll
